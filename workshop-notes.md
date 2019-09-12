@@ -19,8 +19,6 @@
 * [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager)
 * [operator-metering](https://github.com/operator-framework/operator-metering)
 
-[Workshop training materials](http://workshop.coreostrain.me), via `un: operator, pw: coreostrainme`
-
 [Workshop online exercises](https://learn.openshift.com/operatorframework/)
 
 ## Deep dive into K8s API
